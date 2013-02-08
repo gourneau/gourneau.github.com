@@ -34,7 +34,7 @@ Praise was in reference to a project I created for [Science Hack Day 2011](http:
 
 ##Internet Citizen
 
-#####[Work for Pie score of 63](https://workforpie.com/gourneau/score/)
+#####[Work for Pie score of 64](https://workforpie.com/gourneau/score/)
 ![workforpie.com](http://labs.radiantmachines.com/auction/pie.png)
 
 
@@ -43,10 +43,10 @@ Praise was in reference to a project I created for [Science Hack Day 2011](http:
 
 
 
-* [1,809 StackOverFlow karma](http://stackoverflow.com/users/56069/gourneau?tab=reputation)
-* [61 Klout score](http://klout.com/home#/gourneau/)
+* [1,959 StackOverFlow karma](http://stackoverflow.com/users/56069/gourneau?tab=reputation)
+* [60 Klout score](http://klout.com/home#/gourneau/)
 * 972 reddit karma
-* [2,171 Hacker New Karma](http://news.ycombinator.com/user?id=gourneau)
+* [2,185 Hacker New Karma](http://news.ycombinator.com/user?id=gourneau)
 
 
 
