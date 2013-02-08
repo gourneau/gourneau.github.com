@@ -1,9 +1,9 @@
 #I turn ideas into products, and lead tech teams
 ___
 
-What I do best is convert ideas into prototypes, then build them into products. I did this for **NASA**, and I can do it for you.  **I have code floating aboard the International Space Station.**
+What I do best is convert ideas into prototypes, then build them into scalable products. I did this for **NASA**, and I can do it for you.  **I have code floating aboard the International Space Station.**
 
-I build using open source software, **Python** is my weapon of choice. I have been building **Django** web applications for [4 years](https://code.djangoproject.com/ticket/8910), and web applications for a decade. I am a contributor to [open source software](http://github.com/gourneau), and an active member of various OSS communities. 
+I build using open source software, **Python** is my weapon of choice. I have been building **Django** web applications for [5 years](https://code.djangoproject.com/ticket/8910), and web applications for a decade. I am a contributor to [open source software](http://github.com/gourneau), and an active member of various OSS communities. 
 
 I am currently work at [Ion Torrent](http://www.forbes.com/forbes/2011/0117/features-jonathan-rothberg-medicine-tech-gene-machine.html). Ion Torrent is the first company to qualify for the [Genomics X PRIZE](http://news.sciencemag.org/scienceinsider/2012/07/new-start-date-and-first-contest.html). At Ion I am the lead web developer of the **Django** and **Twisted** web application that controls our genetic sequencing platforms, the source for this project is on [github](https://github.com/iontorrent/TS/tree/master/dbReports). I have also been the **tech team lead** for this project, along the way I hired and trained new developers, and directed contractors.
 
